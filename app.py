@@ -78,7 +78,7 @@ card_average_fire = dbc.Card(
         dbc.CardBody(
             [
             html.H5('Average Fire Per Day', className='text-left'),
-            html.Div(id='average_fire', className='card-text text-center', style={'font-size': '36px'})
+            html.Div(id='average_fire', className='card-text text-center', style={'font-size': '60px', 'font-weight': 'bold'})
             ]
         )
     ]
@@ -89,7 +89,7 @@ card_fire_total = dbc.Card(
         dbc.CardBody(
             [
             html.H5('Total Fire', className='text-left'),
-            html.Div(id='fire_total', className='card-text text-center', style={'font-size': '36px'})
+            html.Div(id='fire_total', className='card-text text-center', style={'font-size': '60px', 'font-weight': 'bold'})
             ]
         )
     ]
