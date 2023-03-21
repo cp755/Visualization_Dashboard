@@ -1,0 +1,19 @@
+.black-date-picker .CalendarMonthGrid {
+    background-color: black;
+    color: white;
+}
+
+.Select-value-icon {
+    color: rgb(220, 76, 76); /* Change this to your preferred color */
+}
+
+.Select--single>.Select-control {
+    border-color: rgb(0, 0, 0); /* Change this to your preferred border color */
+}
+
+
+
+.DatePickerRangeInput{
+    background-color: black;
+    color: white;
+}
